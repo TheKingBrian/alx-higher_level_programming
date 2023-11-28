@@ -2,10 +2,10 @@
 #define LISTS_H
 #include <stdlib.h>
 /**
- * struct listint_s - singly linked list
+ * struct listint_s - all thesingle string items
  * @n: integer
  * @next: points to the next node
- * Description: singly linked list node structure
+ * Description all the singly string list
  */
 typedef struct listint_s
 {
